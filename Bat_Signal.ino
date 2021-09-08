@@ -5,15 +5,15 @@
 #include<Adafruit_GFX.h>
 #include "Adafruit_LEDBackpack.h"
 
-#define WIFI_SSID       "BrownNet"
-#define WIFI_PASS       "become3798"
+#define WIFI_SSID       "SECRET WIFI"
+#define WIFI_PASS       "PASSWORD"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define MQTT_SERV      "io.adafruit.com"
 #define MQTT_PORT  1883   // use 8883 for SSL
-#define MQTT_NAME      "enzosupreme"
-#define MQTT_PASS       "aio_ZvkF08jECr8UpqVWzAOAl7GMaCl2"
+#define MQTT_NAME      "USERNAME"
+#define MQTT_PASS       "MQTT PASS"
 
 
 int led = 16;
